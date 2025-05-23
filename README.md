@@ -1,6 +1,6 @@
 # SUDA_645_Paper Presentation
 ## 2025
-- *(ICSE'2025)* **Vulnerability Detection with Code Language Models：How Far Are We** [[paper]](https://arxiv.org/pdf/2403.18624)
+- *(ICSE'2025)* <u>Vulnerability Detection with Code Language Models：How Far Are We</u> [[paper]](https://arxiv.org/pdf/2403.18624)
   **Authors:** Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, Yizheng Chen ; **First Unit:** Columbia University ; **Keywords:** Vulnerability Detection, data quality, Code Language Models
 - *(ICSE'2025)* Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them [[paper]](https://arxiv.org/pdf/2412.20740)
   **Authors:** Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, Xin Xia ; **First Unit:** Zhejiang University ; **Keywords:** Vulnerability Management, Software Maintenance, Software Security
