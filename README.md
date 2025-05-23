@@ -1,6 +1,6 @@
 # SUDA_645_Paper Presentation
 ## 2025
-- *(ICSE'2025)* **Vulnerability Detection with Code Language Models：How Far Are We** [[paper]](https://arxiv.org/pdf/2403.18624)
+- *(ICSE'2025)* **<<Vulnerability Detection with Code Language Models：How Far Are We>>** [[paper]](https://arxiv.org/pdf/2403.18624)
   **Authors:** Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, Yizheng Chen ; **First Unit:** Columbia University ; **Keywords:** Vulnerability Detection, data quality, Code Language Models
 - *(ICSE'2025)* **Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them** [[paper]](https://arxiv.org/pdf/2412.20740)
   **Authors:** Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, Xin Xia ; **First Unit:** Zhejiang University ; **Keywords:** Vulnerability Management, Software Maintenance, Software Security
@@ -57,7 +57,7 @@ Testing, Code Transformation
   **Authors:** Jiachi Chen, Qingyuan Zhong, Yanlin Wang, Kaiwen Ning, Yongkun Liu, Zenan Xu, Zhe Zhao, Ting Chen, Zibin Zheng ; **First Unit:** Sun Yat-sen University ; **Keywords:** large language models, malicious code, code generation
 - *(ARXIV'2023)* **Context-Aware Code Generation Framework for Code Repositories: Local, Global, and Third-Party Library Awareness** [[paper]](https://openreview.net/forum?id=XNPGICS9vr)
   **Authors:** Dianshu Liao, Shidong Pan, Qing Huang, Xiaoxue Ren, Zhenchang Xing, Huan Jin, Qinying Li ; **First Unit:** Jiangxi Normal University ; **Keywords:** Code Generation, Code Repository Knowledge Mining
-- *(ASE'2023)* ** CAT-LM Training Language Models on Aligned Code And Tests** [[paper]](https://arxiv.org/pdf/2310.01602)
+- *(ASE'2023)* **CAT-LM Training Language Models on Aligned Code And Tests** [[paper]](https://arxiv.org/pdf/2310.01602)
   **Authors:** Nikitha Rao, Kush Jain, Uri Alon, Claire Le Goues, Vincent J. Hellendoorn ; **First Unit:** Carnegie Mellon University ; **Keywords:** test generation, test completion, large language models, code-test alignment
 - *(ESEC/FSE'2023)* **A Practical Human Labeling Method for Online Just-in-Time Software Defect Prediction** [[paper]]
   **Authors:** Liyan Song, Leandro Lei Minku, Cong Teng, Xin Yao ; **First Unit:** Southern University of Science and Technology ; **Keywords:** Just-in-time software defect prediction, online learning, verification latency, waiting time, human labeling, human inspection
