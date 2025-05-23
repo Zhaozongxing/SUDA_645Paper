@@ -6,11 +6,11 @@
   **Authors:** Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, Xin Xia ; **First Unit:** Zhejiang University ; **Keywords:** Vulnerability Management, Software Maintenance, Software Security
 
 ## 2024
-- *(FSE'2024)* **<Evaluating and Improving ChatGPT for Unit Test Generation>** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3660783)
+- *(FSE'2024)* **(Evaluating and Improving ChatGPT for Unit Test Generation)** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3660783)
   **Authors:** Zhiqiang Yuan; **First Unit:** Fudan University; **Keywords:** Unit testing, Test generation, Large language model
-- *(ASE'2024)* **<HITS: High-coverage LLM-based Unit Test Generation via Method Slicing>** [[paper]](https://arxiv.org/pdf/2408.11324)
+- *(ASE'2024)* **(HITS: High-coverage LLM-based Unit Test Generation via Method Slicing)** [[paper]](https://arxiv.org/pdf/2408.11324)
   **Authors:** Zejun Wang，Kaibo Liu ; **First Unit:** Key Lab of HCST (PKU) ; **Keywords:** Unit Test Generation, Large Language Model, Program Decomposition, Program Slicing, Testing and Analysis, AI for SE
-- *(TOSEM'2024)* **Fairness Testing of Machine Translation Systems** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3664608)
+- *(TOSEM'2024)* **<Fairness Testing of Machine Translation Systems>** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3664608)
   **Authors:** Zeyu Sun, Zhenpeng Chen, Jie Zhang, Dan Hao ; **First Unit:** Chinese Academy of Sciences ; **Keywords:** Fairness testing, metamorphic testing, machine translation, protected
 attributes
 - *(ISSTA'2024)* **DistillSeq: A Framework for Safety Alignment Testing in Large Language Models using Knowledge Distillation** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3650212.3680304)
