@@ -4,6 +4,7 @@
   **Authors:** Yangruibo Ding, Yanjun Fu, Omniyyah Ibrahim, Chawin Sitawarin, Xinyun Chen, Basel Alomair, David Wagner, Baishakhi Ray, Yizheng Chen ; **First Unit:** Columbia University ; **Keywords:** Vulnerability Detection, data quality, Code Language Models
 - *(ICSE'2025)* **(Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them)** [[paper]](https://arxiv.org/pdf/2412.20740)
   **Authors:** Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, Xin Xia ; **First Unit:** Zhejiang University ; **Keywords:** Vulnerability Management, Software Maintenance, Software Security
+- *(FSE'2025)* **(One-for-All Does NotWork! Enhancing Vulnerability Detection by Mixture-of-Experts)** **Authors:** XU YANG, SHAOWEI WANG, JIAYUAN ZHOU, WENHAN ZHU; **First Unit:** University of Manitoba, Canada
 
 ## 2024
 - *(FSE'2024)* **(Evaluating and Improving ChatGPT for Unit Test Generation)** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3660783)
