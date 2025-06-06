@@ -5,6 +5,7 @@
 - *(ICSE'2025)* **(Similar but Patched Code Considered Harmful -- The Impact of Similar but Patched Code on Recurring Vulnerability Detection and How to Remove Them)** [[paper]](https://arxiv.org/pdf/2412.20740)
   **Authors:** Zixuan Tan, Jiayuan Zhou, Xing Hu, Shengyi Pan, Kui Liu, Xin Xia ; **First Unit:** Zhejiang University ; **Keywords:** Vulnerability Management, Software Maintenance, Software Security
 - *(FSE'2025)* **(One-for-All Does NotWork! Enhancing Vulnerability Detection by Mixture-of-Experts)** [[paper]](https://arxiv.org/pdf/2501.16454) **Authors:** XU YANG, SHAOWEI WANG, JIAYUAN ZHOU, WENHAN ZHU; **First Unit:** University of Manitoba, Canada
+- *(SP'2025)*  **(SV-TrustEval-C: Evaluating Structure and Semantic Reasoning in Large Language Models for Source Code Vulnerability Analysis)** **Authors:** Yansong Li,Paula Branco,Alexander M. Hoole,Hari Manassery Koduvely,Guy-Vincent Jourdan,Stephan Jou; **First Unit:** University of Ottawa, Canada
 
 ## 2024
 - *(FSE'2024)* **(Evaluating and Improving ChatGPT for Unit Test Generation)** [[paper]](https://dl.acm.org/doi/pdf/10.1145/3660783)
